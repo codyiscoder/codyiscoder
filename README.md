@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://www.youtube.com/c/@codyiscoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codyiscoder" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/SpA33q2M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SpA33q2M" height="30" width="40" /></a>
+<a href="https://rigby.dev/" target="blank"><img align="center" src="https://www.freeiconspng.com/img/29484" alt="https://rigby.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
