@@ -10,5 +10,4 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codyiscoder&" alt="codyiscoder" /></p>
