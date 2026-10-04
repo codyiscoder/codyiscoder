@@ -1,4 +1,4 @@
-<h1 align="center">im cody</h1>
+<h1 align="center">DeveloperCody</h1>
 <h3 align="center">programmer who works in C-based languages. im interested in mechanical, & electrical engineering, along with electronics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codyiscoder&label=Profile%20views&color=0e75b6&style=flat" alt="codyiscoder" /> </p>
